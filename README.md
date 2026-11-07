@@ -1,3 +1,3 @@
 # DemoRepo
 
-Preparartion for DataBricks Data Engineer Associate Exam
+Preparation for DataBricks Data Engineer Associate Exam Certification
